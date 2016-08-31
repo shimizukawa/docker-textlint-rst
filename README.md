@@ -1,6 +1,8 @@
 textlint-rst
 =============
 
+Docker URL https://hub.docker.com/r/shimizukawa/textlint-rst/
+
 Based upon https://hub.docker.com/r/miy4/textlint/
 
 Docker container with textlint.
